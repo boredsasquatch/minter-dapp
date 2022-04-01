@@ -1,5 +1,5 @@
-const contractAddress = "0x742DF8B6fB4D5fD8D073E59ffEBd32256Bb76Af3"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x2ed61576585c70c3037cb4741da00e1b6f92dca1e055c1ae540d880afae6734c"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Bored Sasquatch Club Project!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
