@@ -1,4 +1,4 @@
-const contractAddress = "0x2ed61576585c70c3037cb4741da00e1b6f92dca1e055c1ae540d880afae6734c"; //Replace with your own contract address
+const contractAddress = "0xC857668b5c2b89B172b77A69849a46E55421b7E2"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Bored Sasquatch Club Project!";
